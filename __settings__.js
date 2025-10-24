@@ -1,5 +1,5 @@
-window.ASSET_PREFIX = "";
-window.SCRIPT_PREFIX = "";
+window.ASSET_PREFIX = "https://cdn.jsdelivr.net/gh/dartsc/Stack-Bounce@6bb871660dbb736da163fed5e940d0c1a96ddd53/";
+window.SCRIPT_PREFIX = "https://cdn.jsdelivr.net/gh/dartsc/Stack-Bounce@6bb871660dbb736da163fed5e940d0c1a96ddd53/";
 window.SCENE_PATH = "https://cdn.jsdelivr.net/gh/dartsc/Stack-Bounce@6bb871660dbb736da163fed5e940d0c1a96ddd53/1961529.json";
 window.CONTEXT_OPTIONS = {
     'antialias': true,
